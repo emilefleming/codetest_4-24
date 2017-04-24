@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bobby Flay",
+    "minOrders": 3,
+    "maxOrders": 8
+  },
+  {
+    "name": "Anthony Bourdain",
+    "minOrders": 5,
+    "maxOrders": 11
+  },
+  {
+    "name": "Aunt Jemima",
+    "minOrders": 2,
+    "maxOrders": 5
+  }
+]
